@@ -1,0 +1,20 @@
+# CLS resources (not tracked)
+CLS-resources/
+
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+
+# knitr / R Markdown caches
+*_cache/
+*.knit.md
+*.utf8.md
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
